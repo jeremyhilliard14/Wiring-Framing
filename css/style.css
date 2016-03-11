@@ -1,0 +1,39 @@
+.row1{
+	background-color: #c4c4c4;
+}
+
+.list-inline{
+	float: right;
+}
+
+#top-header ul{
+	float: right;
+}
+
+.menu{
+	margin-top: 33px;
+}
+
+.bottom{
+	float: left;
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+
+	
+}
+
+img{
+	width: 100%;
+}
+
+/*.top{
+	background-color: #c4c4c4;
+	height: 20px;  */
+}
+
+/*.col-lg-3{
+	padding-left: 42px;
+}*/
